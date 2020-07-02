@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tong Li"
 title_separator          : "-"
 name                     : &name "Tong Li"
-description              : &description "Msc student at Imperial College London"
+description              : &description "Msc in Advanced Computing at Imperial College London"
 url                      : https://TongLi3701.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TongLi3701.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tong Li"
-  avatar           : "profile.png"
+  avatar           : "TongLi.jpg"
   bio              : "Msc in Advanced Computing at Imperial College London"
   location         : "London"
   employer         :
