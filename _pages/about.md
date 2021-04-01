@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Tong Li's home on the web!
+This is Tong Li's homepage.
